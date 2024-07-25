@@ -29,4 +29,4 @@ Simple Age and Gender Detector using Machine Learning
 [Sample Output 3](https://github.com/bhushan1900/Age_Gender_Detector/blob/main/Output_Image_3.PNG)
 
 ### Sample Output 4:
-[Sample Output 4](https://github.com/bhushan1900/Age_Gender_Detector/blob/main/Output_Image_4.PNG)
+[Sample Output 4](https://github.com/bhushan1900/Age_Gender_Detector/blob/main/Output_Image_4.PNG?raw=true)
